@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2015/10/24/Michael-Xin-s-Github-Blog/</loc>
+    <lastmod>2015-10-24T15:39:36.044Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2015/10/24/hello-world/</loc>
     <lastmod>2015-10-24T14:35:38.247Z</lastmod>
   </url>
